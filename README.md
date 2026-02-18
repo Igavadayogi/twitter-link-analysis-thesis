@@ -96,7 +96,7 @@ This research contributes to understanding:
 ## Citation
 ```
 Raharja, I. A. V. (2023). Twitter Link Analysis: News Source Distribution 
-and Information Dissemination Patterns (./Final_Year_Project.pdf). University 
+and Information Dissemination Patterns [View Full Thesis (PDF)](./Final_Year_Project.pdf). University 
 of Sussex.
 ```
 
